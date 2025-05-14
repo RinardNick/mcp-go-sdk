@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rinardnick-mcp-go-sdk-badge.png)](https://mseep.ai/app/rinardnick-mcp-go-sdk)
+
 # MCP Python SDK
 
 <div align="center">
